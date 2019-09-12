@@ -1,1 +1,1 @@
-this is f3
+print ('hello world')
